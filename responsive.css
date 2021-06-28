@@ -1,0 +1,206 @@
+@media screen and (max-width: 1025px) {
+  #getstarted {
+    margin-right: 0px;
+  }
+
+  .logo a {
+    margin-left: 5px;
+    display: flex;
+  }
+
+  #home {
+    height: 93.5vh;
+  }
+
+  .home-img img {
+    width: 95%;
+    margin: 0px;
+  }
+
+  .home-content {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  .about-img {
+    align-self: center;
+  }
+
+  .features .row .col-lg-6 {
+    margin-top: 0px !important;
+  }
+
+  .features-icon-content {
+    display: block;
+    width: 95%;
+  }
+
+  .features-icons-img img {
+    display: block;
+    width: 86%;
+
+    margin: 0px auto !important;
+    height: 86%;
+  }
+
+  .features-icons-img {
+    padding: 24px;
+  }
+}
+
+@media screen and (max-width: 769px) {
+  .navbar-brand-1 a {
+    margin-left: 20px;
+  }
+
+  #navbar-popup {
+    height: 85vh;
+    background: #fff;
+    border-radius: 20px;
+  }
+
+  #home {
+    text-align: center;
+    padding: 120px 0px 60px 0px;
+    height: auto;
+  }
+
+  #home,
+  #about,
+  #value {
+    margin: 0px auto;
+  }
+
+  .container {
+    margin: 0px auto;
+  }
+
+  #home .container .row {
+    margin: 0px auto;
+    overflow: hidden;
+  }
+
+  .home-content,
+  .home-img {
+    margin: 0px;
+  }
+
+  .home-img img {
+    margin: 0px auto;
+    padding: 50px 0px 0px 0px;
+  }
+
+  #about .row {
+    width: 96%;
+    margin: 0px auto;
+    overflow-x: hidden;
+  }
+
+  .about-container {
+    padding: 0px;
+    margin: 0px auto;
+  }
+
+  .about-content {
+    margin: 0px;
+  }
+
+  .about-img {
+    padding: 0px;
+    margin: 0px auto;
+  }
+
+  .about-button {
+    text-align: center;
+  }
+
+  .about-img button {
+    display: block;
+    margin: auto;
+  }
+
+  .value-content {
+    margin: 54px auto 0px auto;
+  }
+
+  .counts {
+    margin: 0px auto;
+  }
+
+  .features {
+    width: 100%;
+    margin: 0px auto;
+    overflow-x: hidden;
+  }
+
+  .features-tab {
+    overflow-x: hidden;
+  }
+
+  .features-icon-content {
+    height: auto;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  .features-icons-img img {
+    height: auto;
+    width: 100%;
+  }
+}
+@media screen and (max-width: 426px) {
+  #about .row {
+    width: 95%;
+    margin: 0px auto;
+    overflow-x: hidden;
+  }
+
+  #value,
+  #services {
+    overflow-x: hidden;
+  }
+
+  #about .row {
+    width: 90%;
+    margin: auto auto;
+  }
+
+  .value-content {
+    margin: 24px auto 0px auto;
+    width: 90%;
+    margin: 0px auto;
+  }
+
+  .counts,
+  .features {
+    width: 93%;
+  }
+
+  .features-tab-content ul li a {
+    margin-right: 15px;
+  }
+
+  .count-box {
+    margin-top: 20px;
+  }
+
+  .service-content {
+    width: 92%;
+    margin: 0px auto;
+  }
+
+  #pricing {
+    overflow-x: hidden;
+  }
+
+  .pricing-content {
+    width: 92%;
+    margin: 0px auto;
+  }
+
+  #faqlist-1,
+  #faqlist-2 {
+    width: 95%;
+    margin: 0px auto;
+  }
+}
